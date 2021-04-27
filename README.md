@@ -1,0 +1,2 @@
+# info-rectorsol
+dashboard
